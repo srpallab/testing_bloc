@@ -1,0 +1,4 @@
+* Flutter Bloc Project
+* Package Dependency
+  - ~bloc~
+  - ~flutter_bloc~
